@@ -1,6 +1,4 @@
 # tic-tac-toe
-purpose: 
-
     A Java program that will allow two users to play tic, tac, toe with a
     3x3 board. The two players should be able to alternatively enter their
     X or O. A player should not be able to place their X or O on a spot already
